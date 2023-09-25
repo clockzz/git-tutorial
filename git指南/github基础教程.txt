@@ -1,0 +1,15 @@
+1、README.md文件(纯文本文件用.txt也能打开)是项目的说明文件
+2、下载项目代码
+	code-->Download ZIP    在github上面下载源码不需要登录
+3、fork可以把别人的项目代码（repository）复制到自己的空间
+4、创建新项目 
+	click+-->填写Repository name 和 Description,勾选README file -->点击creat
+5、上传项目代码
+	Add file-->Upload files-->拖动项目代码-->commit
+6、GitHub支持在线修改文件
+	点击编辑按钮可以直接编辑-->将编辑好的文件进行 commit
+7、互动交流
+	新建话题
+		issues-->填写标题和正文-->submit	
+	结束话题
+		Close with comment
